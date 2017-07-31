@@ -1,4 +1,4 @@
-#continuous fraction algorithm
+#continued fraction algorithm
 
 from __future__ import division #for python 2.7
 import math
